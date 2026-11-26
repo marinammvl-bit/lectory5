@@ -21,3 +21,8 @@ task-time-tracker/
 ├── test_time_tracker.py  # unit-тесты
 ├── README.md             # документация
 └── requirements.txt      # зависимости
+
+1. Скриншот с запуском Unit-тестов
+<img width="1060" height="347" alt="image" src="https://github.com/user-attachments/assets/2bd26e37-2785-477c-aa4a-e5dac079baea" />
+2. Скриншот с демонстрацией работы
+<img width="501" height="690" alt="image" src="https://github.com/user-attachments/assets/7183746a-d1ce-4ef4-9778-fbbf5d589190" />
